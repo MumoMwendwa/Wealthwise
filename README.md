@@ -32,7 +32,7 @@ To develop an intuitive and efficient system that enables users to manage and mo
 
 ---
 
-## ⚙️ Features
+##  Features
 
 *  Expense and income tracking
 *  Categorization of transactions
